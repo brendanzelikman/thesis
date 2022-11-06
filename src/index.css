@@ -1,0 +1,40 @@
+body,
+html,
+#root {
+  height: 100%;
+  margin: 0 !important;
+  background: linear-gradient(#667db6, #0082c8, #0082c8, #667db6);
+}
+
+.panel {
+  background-color: whitesmoke;
+}
+
+.hover-gray {
+  background-color: whitesmoke;
+}
+
+.hover-gray:hover {
+  background-color: gainsboro;
+}
+
+.fade-in {
+  animation: fadeIn 0.2s ease-in-out;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/* .strong-border-left {
+  border: 5px solid orange;
+}
+.strong-border-middle {
+  border: 5px solid mediumvioletred;
+}
+.strong-border-right {
+  border: 5px solid orange;
+} */
