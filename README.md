@@ -32,7 +32,6 @@ can arrange instrumental parts that play musical motifs constructed out of neste
 <img src="public/gallery/version5-4.png" style="width: 600px; border-radius: 5px; border: 2px solid #234;"/>
 <img src="public/gallery/version5-5.png" style="width: 600px; border-radius: 5px; border: 2px solid #234;"/>
 <p>This is what the website looked like after I worked on it full-time for half a year after graduation. I decided to take a year off after college to do some soul-searching and reflect on my future, and so I was able to peacefully work on Harmonia and enter the flow state that I had long been craving.
-Although I would not be accepted into any of the startup accelerators I applied for, I was still able to truly professionalize the website and implement long-desired features like user authentication and payment processing.
 
 </p>
 
